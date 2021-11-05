@@ -1,0 +1,29 @@
+span.aboutmetextcolor{
+    color: #fff;
+}
+
+h1.workshops{
+    text-align: center;
+}
+
+
+.title-skills {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.imgskills {
+    width: 150px;
+    height: auto;
+    margin-right: 20px;
+
+}
+
+.listapontos{
+    list-style-type: none;
+}
+
+.videonanoleaf{
+
+}
